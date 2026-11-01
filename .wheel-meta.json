@@ -1,0 +1,22 @@
+{
+  "wheel_id": 606,
+  "structure": "umbrella",
+  "slug": "southsidegaragedoors-com-108",
+  "project": "garage-door-repairs-brisbane-seasonal-timing-8066b740f9e2470",
+  "parent_t1_ref": "southsidegaragedoors-com-153",
+  "node_role": "feeder",
+  "money_target": "southsidegaragedoors.com.au",
+  "primary_kw": "garage door repairs brisbane seasonal timing",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-seasonal-timing-8066b740f9e2470/",
+  "tier": "T2",
+  "writeback_nonce": "87341c832519fe9e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-diy-vs-professional-014db90783dd60/",
+      "anchor": "Garage Door Repairs Brisbane Diy vs Professional: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
